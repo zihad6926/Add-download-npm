@@ -1,6 +1,6 @@
 {
-  "name": "imran-ck-project",
-  "version": "0.0.2",
+  "name": "your-project-name",
+  "version": "0.0.0",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "index.js",
   "scripts": {
@@ -45,11 +45,7 @@
   },
   "homepage": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader#readme",
   "dependencies": {
-    "got": "^11.8.3",
-    "cheerio": "~1.0.0-rc.5",
-    "axios": "^1.6.7",
-    "request": "^2.88.2",
-    "millify": "^6.1.0"
+    "nayan-media-downloader": "^2.6.6"
   },
   "devDependencies": {
     "@types/node": "^22.1.0",
