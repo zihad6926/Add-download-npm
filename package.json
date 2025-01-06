@@ -45,7 +45,7 @@
   },
   "homepage": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader#readme",
   "dependencies": {
-    "nayan-media-downloader": "^2.6.6"
+    "nayan-videos-downloader": "^0.1.3"
   },
   "devDependencies": {
     "@types/node": "^22.1.0",
