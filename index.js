@@ -1,6 +1,6 @@
 module.exports.alldown = (url) => 
   new Promise(async (resolve, reject) => {
-    const { alldown } = require("nayan-media-downloader");
+    const { alldown } = require("nayan-videos-downloader");
 
     try {
       const { data, msg } = await alldown(url);
